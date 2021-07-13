@@ -1,0 +1,45 @@
+@media screen and (max-width: 1500px) {
+    .wrapper .background-large {
+        display: none;
+    }
+
+    .wrapper .background-medium {
+        display: block;
+    }
+
+    .header {
+        padding: 0 125px;
+    }
+
+    .content {
+        padding-left: 125px;
+    }
+
+    .timer {
+        width: 442px;
+    }
+
+    .timer .timer-inner {
+        width: 338px;
+    }
+
+    .timer img {
+        width: 80px;
+        height: auto;
+        right: -35px;
+        top: -35px;
+    }
+
+    .additional-info {
+        width: 190px;
+        margin-left: 125px;
+    }
+
+    .time h3 {
+        font-size: 42px;
+    }
+
+    .time {
+        width: 53px;
+    }
+}
