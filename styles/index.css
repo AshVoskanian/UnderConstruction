@@ -53,6 +53,10 @@
     display: none;
 }
 
+a {
+    text-decoration: none;
+}
+
 .txt {
     margin-bottom: 6px;
     font-family: 'medium', sans-serif;
@@ -156,9 +160,10 @@
 
 .additional-info {
     position: relative;
-    width: 210px;
+    width: 286px;
     height: 67px;
     padding-left: 76px;
+    padding-right: 38px;
     margin-left: 255px;
     margin-top: 190px;
     font-size: 16px;

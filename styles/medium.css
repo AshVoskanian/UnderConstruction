@@ -31,8 +31,14 @@
     }
 
     .additional-info {
-        width: 190px;
+        width: 255px;
         margin-left: 125px;
+        padding-left: 62px;
+        font-size: 14px;
+    }
+
+    .additional-info img {
+        width: 18px;
     }
 
     .time h3 {
